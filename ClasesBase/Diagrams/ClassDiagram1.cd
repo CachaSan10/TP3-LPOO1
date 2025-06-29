@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClasesBase.Cliente">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAQAIAAAAAAAAAhAAAAIQQAAAQAAAIUAAACEAQA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Prestamo">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAREAEAAAAAAAACQAAAEAAgBAAAABEAQIAAAACgBAI=</HashCode>
+      <FileName>Prestamo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Cuota">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAAAAAQAAAAAAAAQABAAEAAQABBAAAAQQAAAAAA=</HashCode>
+      <FileName>Cuota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Pago">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAAAAAAAAAAAAQAACAEACgAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Pago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Periodo">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAgAgA=</HashCode>
+      <FileName>Periodo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Destino">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAACAAAAAAAAAAAAAAAAAAAAACAAAAI=</HashCode>
+      <FileName>Destino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Usuario">
+    <Position X="10" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAAAQAgAAECIAAAAgAAAAAAAIAAAAI=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClasesBase.Rol">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAAAAgAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
